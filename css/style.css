@@ -146,6 +146,21 @@ nav {
 
 /* ADICIONAR EVENTO - Inserir CSS da página de adicionar*/
 
+.formularioAdd{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: var(--off-white);
+
+    form{
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        width: 40%;
+
+    }
+}
+
 /*
 MEDIA QUERY - RESPONSIVIDADE
 */
